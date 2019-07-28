@@ -11,6 +11,7 @@ class App extends Component {
     return (
       <div>
         <Header />
+        <h1>Testing</h1>
         <HashRouter basename='/'>
           <Route exact={true} path='/' component={HomePage} />
           <Route exact={true} path='/poster' component={PosterPage} />
