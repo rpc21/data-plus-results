@@ -27,9 +27,9 @@ const Header = () => {
         <Navbar bg="light" variant="light" className='navbar'>
             <Navbar.Brand href="/">Speech Emotion Analysis</Navbar.Brand>
             <Nav className="mr-auto">
-                <Nav.Link href="/data-plus-results/references">References</Nav.Link>
-                <Nav.Link href="/data-plus-results/poster">Poster</Nav.Link>
-                <Nav.Link href="/data-plus-results/sample_audio">Sample Audio</Nav.Link>
+                <Nav.Link href="#/references">References</Nav.Link>
+                <Nav.Link href="#/poster">Poster</Nav.Link>
+                <Nav.Link href="#/sample_audio">Sample Audio</Nav.Link>
             </Nav>
         </Navbar>
     );
