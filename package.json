@@ -1,7 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://rpc21.github.io/data-plus-results",
   "dependencies": {
     "bootstrap": "^4.3.1",
