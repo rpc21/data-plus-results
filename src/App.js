@@ -12,7 +12,7 @@ class App extends Component {
       <div>
         <Header />
         <h1>Testing</h1>
-        <HashRouter basename='/'>
+        <HashRouter basename='/data-plus-results/'>
           <Route exact={true} path='/' component={HomePage} />
           <Route exact={true} path='/data-plus-results/poster' component={PosterPage} />
           <Route exact={true} path='/data-plus-results/references' component={ReferencesPage} />
