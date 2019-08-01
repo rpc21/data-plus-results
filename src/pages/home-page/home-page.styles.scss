@@ -1,0 +1,63 @@
+.jumbotron {
+    // display: flex;
+    // align-items: center;
+
+    text-align: center;
+    text-emphasis: bold;
+    // justify-content: center;
+    font-family: "Merriweather";
+
+    background-color: #012169;
+
+    .title {
+        font-family: "Merriweather";
+        font-size: 76px;
+        color: white;
+    }
+
+    .names {
+        font-family: "Merriweather";
+        font-size: 24px;
+        color: white;
+        margin-bottom: 0px;
+    }
+}
+
+.subheading {
+    font-family: "Merriweather";
+    font-size: 48px;
+    color: #00539B;
+}
+
+.text {
+    font-family: "Questrial";
+    font-size: 24px;
+}
+
+.goal {
+    justify-content: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 50%;
+}
+
+.h3 {
+    font-family: "Questrial";
+    font-size: 36px;
+    color: #0577B1;
+}
+
+.diagram-title {
+    text-align: center;
+    justify-content: center;
+}
+
+.diagram {
+    justify-content: center;
+}
+
+.model {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}

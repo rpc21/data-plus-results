@@ -1,9 +1,12 @@
 import React from 'react';
-import './poster-page.component.scss';
+import './poster-page.styles.scss';
+import poster from '../../assets/images/Poster.png';
+
+import { Image } from 'react-bootstrap';
 
 const PosterPage = () => {
-    return <iframe 
-        src="https://docs.google.com/presentation/d/e/2PACX-1vSzbaujc9Gvs4dLsjMObgXxe_4y8Dw50SU-LrOhlv6yqGNgVUsBDJYurmFPBGQSrklxJ-MKjh3aCCq-/embed?start=false&loop=true&delayms=60000" frameborder="0" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>;
-}
+    return <Image src={poster} className="poster"/>;
+};
+
 
 export default PosterPage;
