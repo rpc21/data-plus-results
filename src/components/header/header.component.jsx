@@ -20,11 +20,11 @@ const Header = () => {
                 <Link className='option' to='/poster'>
                     POSTER
                 </Link>
-                <Link className='option' to='/references'>
-                    REFERENCES
-                </Link>
                 <Link className='option' to='/sample_audio'>
                     SAMPLES
+                </Link>
+                <Link className='option' to='/references'>
+                    REFERENCES
                 </Link>
             </div>
         </div>

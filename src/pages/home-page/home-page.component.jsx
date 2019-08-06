@@ -117,6 +117,10 @@ const HomePage = () => {
                 <li>Improve the generalizability of our model</li>
             </ul>
 
+            <h2 className='subheading'>Acknowledgements</h2>
+            <hr></hr>
+            <p className='text'>We would like to thank Data+ and the Rhodes Information Initiative for giving us the opportunity to spend the past 10 weeks working on this project. We would like to thank Professor Paul Bendich and Ariel Dawn for organizing Data+ and Professor Vahid Tarokh, Professor Jie Ding, and Enmao Diao for supporting us throughout the project.</p>
+
         </div >
     );
 }
