@@ -3,11 +3,11 @@ import {Link} from 'react-router-dom';
 import { Jumbotron, Image, Container, Row, Col } from 'react-bootstrap';
 import ser_goal from '../../assets/images/ser_goal.PNG';
 import tts_goal from '../../assets/images/tts_goal.PNG';
-import ser_model from '../../assets/images/ser_model.PNG';
+import ser_model from '../../assets/images/ser_model_1.PNG';
 import tts_model from '../../assets/images/tts_model.PNG';
 import pie_chart from '../../assets/images/iemocap_pie.PNG';
 import confusion_matrix from '../../assets/images/confusion_matrix.PNG';
-import table from '../../assets/images/table.PNG';
+import table from '../../assets/images/table1.PNG';
 import './home-page.styles.scss';
 
 
